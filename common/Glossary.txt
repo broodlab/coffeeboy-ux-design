@@ -1,0 +1,220 @@
+amount
+  * amount of ingredients
+
+assign
+  * e.g.: CoffeeBoy assigns a color to a cup of coffee order item.
+
+bean
+  * ingredient type coffee bean
+
+brew
+  * brewing coffee
+  * brewing process
+
+cancel
+  * e.g.: Bob cancels the cup of coffee order.
+
+choice
+  * coffee recipe choice
+
+choose
+  * e.g.: Bob chooses a coffee recipe.
+
+clean
+  * e.g.: CoffeeBoy's tubes get cleaned.
+
+cleanliness
+  * cleanliness status
+
+client
+  * remote client
+
+coffee
+
+CoffeeBoy
+
+color
+  * e.g.: CoffeeBoy assigns a color to a cup of coffee order item.
+
+copy
+  * coffee recipe copy
+
+create
+  * e.g.: Amy creates a cup of coffee order item.
+
+creation
+  * coffee recipe creation
+
+cup
+  * cup of coffee
+
+decrease
+  * decrease ingredient
+
+delete
+  * e.g.: Amy delete a coffee recipe.
+
+deletion
+  * coffee recipe deletion
+
+device
+  * remote device
+
+display
+  * CoffeeBoy display
+
+drawer
+  * e.g.: Amy empties the drawer with the coffee grounds.
+
+empty
+  * e.g.: Amy empties the cup containing dirty water.
+
+end
+  * brewing process end
+
+existing
+  * e.g.: Bob sees the list of existing coffee recipes.
+
+fill
+  * cup fill level
+
+forecast
+  * forecast number
+
+fulfill
+  * e.g.: There are insufficient ingredients to fulfill a cup of coffee order.
+
+froth
+  * ingredient type milk froth
+
+grounds
+  * e.g.: Amy empties the drawer with the coffee grounds.
+
+increase
+  * increase ingredient
+
+ingredient
+  * ingredient type coffee bean
+
+insufficient
+  * e.g.: There are insufficient ingredients to fulfill a cup of coffee order.
+
+item
+  * order item
+
+level
+  * cup fill level
+
+list
+  * e.g.: Amy sees the list with all coffee recipes.
+
+local
+  * local client
+
+maintenance
+  * maintenance process
+
+milk
+  * ingredient type milk
+
+modification
+  * on-the-fly coffee recipe modification
+
+modify
+  * e.g.: Amy modifies a coffee recipe.
+
+monitor
+  * monitor brewing process
+
+multiple
+  * multiple cups of coffee
+
+navigate
+  * e.g.: Bob navigates through the list with coffee recipes.
+
+notify
+  * brewing process end notification
+  * notification
+
+on-the-fly
+  * on-the-fly coffee recipe modification
+
+order
+  * cup of coffee order
+
+pick
+  * e.g.: The guest picks up her cup from the tray.
+
+position
+  * coffee recipe position in list
+
+process
+  * brewing process
+
+progress
+  * brewing process progress
+
+property
+  * coffee recipe property
+
+recipe
+  * coffee recipe
+
+recognize
+  * e.g.: CoffeeBoy recognizes the cup's fill level.
+
+refill
+  * refill the ingredients stock
+
+remote
+  * remote client
+  * remote device
+
+save
+  * save a coffee recipe
+
+segment
+  * tray segment
+
+set
+  * e.g.: Amy sets the amount of sugar to zero.
+
+show
+  * e.g.: CoffeeBoy shows all coffee recipes.
+
+specify
+  * e.g.: Amy specifies the coffee recipes properties.
+
+spill
+  * e.g.: CoffeeBoy spills out dirty water.
+
+start
+  * brewing process start
+
+status
+  * cleanliness status
+
+stock
+  * ingredients stock
+
+sugar
+  * ingredient type sugar
+
+take
+  * e.g.: Amy takes a cup from the tray.
+
+tank
+  * ingredient tank
+
+tray
+  * tray with cups
+
+tube
+  * e.g.: CoffeeBoy's tubes get cleaned.
+
+type
+  * ingredient type
+  * cleanliness status type
+
+water
+  * ingredient type water

@@ -1,0 +1,58 @@
+#01: Bob orders a cup of coffee
+While working at home and creating a new plan for a customer's garden Bob decides to have a cup of coffee. He goes to the kitchen and looks at CoffeeBoy's display. It shows all coffee recipes. Bob chooses a coffee recipe and orders one cup. The tray includes two empty cups, so that Bob is not supposed take one from the cupboard. He can monitor the brewing process progress after it has started. After a while Bob gets notified that the brewing process has ended. He gets also notified that there is only one empty cup left on the tray. He takes his cup and continues to work.
+
+
+#02: Bob cancels a brewing process
+It's 6:25 AM. Bob arrives in the kitchen after having finished his morning routine in the bath. He orders a cup of coffee. The brewing process starts. Then he looks into his appointment book. It turns out that he has a meeting in 35 minutes and thus the time is short. Bob immediately cancels the brewing process, takes a sip of the already brewed coffee and quickly leaves the house in order to reach his meeting.
+
+
+#03: Bob cancels a cup of coffee order
+Based on scenario #02: Bob orders a cup of coffee, but immediately cancels it before the brewing process even starts.
+
+
+#04: Amy orders a cup of coffee with on-the-fly modification
+On a Sunday afternoon Amy works on her hobby project in her home office. Because she's pretty tired (Bob and her went to a friend's party the night before) she decides to have a very strong coffee this time. The CoffeeBoy remote device's display shows all coffee recipes. Thereby each coffee recipe gets displayed with a forecast number indicating how many cups are presumably brew-able based on this recipe. Amy chooses the "Strong Coffee" coffee recipe, increases the amount of sugar and coffee beans, and then orders one cup. After two minutes she moves to the kitchen in order to take her cup.
+
+
+#05: Amy orders multiple cups of coffee
+Amy and Bob are sitting in the dining room with their guests. They had dinner and Amy asks if someone would like to have a cup of coffee. Each guest agrees and has an individual wish regarding the coffee recipe. Amy takes the CoffeeBoy remote device and, for each guest, performs the following steps. She creates a cup of coffee order item and chooses the coffee recipe. To each order item CoffeeBoy assigns a certain color. Amy asks the orderer to memorize this color for later pick up. After having repeated this steps for each guest she finally starts the brewing process. After a while Amy gets notified that the brewing process ended. She goes to the kitchen and takes the tray with the cups of coffee. The tray is segmented into different colors. Each segment contains a cup of coffee. After returning back from the kitchen, Amy asks the guests at the table to take their cup from the segment with the color CoffeeBoy assigned to them.
+
+
+#06: Amy orders multiple cups of coffee with on-the-fly modification
+Based on scenario #05: Some guests at the table have pretty specific desires regarding the coffee recipe, and CoffeeBoy does not have a suitable coffee recipe for them. So while choosing the coffee recipes, Amy on-the-fly modifies the amount of some ingredients according to the guest's wish.
+
+
+#07: Amy orders multiple cups of coffee, but the stock has insufficient ingredients
+Based on scenario #05: During the creation of the second order item the CoffeeBoy remote client notifies Amy that there are insufficient ingredients to fulfill the order. Amy can decide to start the brewing process with the existing order items, or to cancel the whole order.
+
+
+#08: Amy orders multiple cups of coffee, but the tray has insufficient cups
+Based on scenario #05: During the creation of the second order item the CoffeeBoy remote client notifies Amy that there are insufficient cups on the tray to fulfill the order. Amy can decide to start the brewing process with the existing order items, or to cancel the whole order.
+
+
+#09: Amy orders multiple cups of coffee, but her guests choose the coffee recipes by themselves
+Based on scenario #05: Amy initiates the multiple cups of coffee order, but then the CoffeeBoy remote device gets passed along the guests. Thereby each guest chooses a coffee recipe, memorizes the assigned color and passes along the CoffeeBoy remote device to the next guest. Finally Amy starts the brewing process.
+
+
+#10: Amy refills the ingredients stock
+It is Saturday 11 AM. Amy arrives back from the shopping mall. Among others she bought ingredients in order to refill CoffeeBoy's ingredients stock. She opens and refills one ingredient tank after another. The ingredient tanks can recognize the current fill level. While refilling Amy can immediately see the new fill level on the display.
+
+
+#11: Amy starts the maintenance process
+Based on scenario #10: After Amy refilled the ingredients stock she checks the cleanliness status. As the status is "dirty" she starts the maintenance process. During the maintenance process CoffeeBoy's tubes get cleaned. Thereby dirty water gets spilled out to a cup. Amy also gets pleased to empty the drawer with the coffee grounds. The display shows the status of the process. After a while Amy gets notified that the maintenance process ended and that she should empty the cup with the dirty water.
+
+
+#12: Amy creates a new coffee recipe
+While relaxing on the couch and reading a book Amy desires a very strong coffee. She bears in mind that such a coffee recipe does not exist in CoffeeBoy, yet. Amy decides to create it. Thus she takes the CoffeeBoy remote device and creates a new coffee recipe. Thereby she names the coffee recipe "Very Strong" and specifies the amount of ingredients. Then she saves it and immediately can see it in the list of existing coffee recipes. She modifies the position of the new recipe so that it appears at the beginning of the list. Finally Amy orders a cup of "Very Strong" coffee, goes to the kitchen to take it and then continues to read her book.
+
+
+#13: Amy creates a new coffee recipe from an existing one
+Based on scenario #12: Instead of creating a new coffee recipe, Amy chooses an existing one and creates a copy of it. Then she modifies the coffee recipe's properties as described in scenario #12.
+
+
+#14: Amy modifies an existing coffee recipe
+Amy enjoys a cup of "Very Strong" coffee. She thinks that the coffee could taste even stronger when she decreased the amount of sugar. So she takes the CoffeeBoy remote device and modifies the "Very Strong" coffee recipe. By doing that she sets the amount of sugar to zero. Then she saves it.
+
+
+#15: Amy deletes an existing coffee recipe
+Amy travels by train to her sister Emilie. She is bored and decides to clean up the list of coffee recipes. The CoffeeBoy remote client displays all coffee recipes according to the position Amy gave them. She navigates to the end of the list where she can see the recipe "Very Soft Coffee". She is convinced that Bob and her have never chosen this recipe before and hence deletes it.

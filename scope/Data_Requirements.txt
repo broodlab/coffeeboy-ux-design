@@ -1,0 +1,44 @@
+* amount of cups of coffee
+* brewing process
+* brewing process end
+* brewing process end notification
+* brewing process progress
+* brewing process start
+* cleanliness status
+* cleanliness status type
+  ** clean
+  ** dirty
+* cup
+* cup fill level
+* cup of coffee
+* cup of coffee order
+* cup of coffee order item
+* cup of coffee order item color
+* cup on tray
+* cup on tray fragment
+* coffee recipe
+* coffee recipe property:
+  ** forecast number
+  ** list of ingredient incl. amount
+  ** name
+  ** position in list
+* ingredient
+* ingredients stock
+* ingredients stock fill level
+* ingredient tank
+* ingredient tank fill level
+* ingredient type:
+  ** coffee bean
+  ** milk
+  ** milk froth
+  ** sugar
+  ** water
+* list of coffee recipes
+* maintenance process
+* maintenance process end
+* maintenance process end notification
+* maintenance process progress
+* maintenance process start
+* tray
+* tray fragment
+* tray on coffee machine

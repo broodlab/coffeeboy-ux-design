@@ -1,0 +1,48 @@
+* assign a color to a cup of coffee order item
+* cancel brewing process
+* cancel coffee recipe creation
+* cancel coffee recipe deletion
+* cancel coffee recipe modification
+* cancel maintenance process
+* cancel cup of coffee order
+* choose coffee recipe
+* copy coffee recipe
+* create coffee recipe
+* create cup of coffee order item
+* decrease ingredient
+* delete coffee recipe
+* increase ingredient
+* on-the-fly modify coffee recipe
+* monitor brewing process
+* monitor brewing process progress
+* monitor maintenance process
+* monitor maintenance process progress
+* notify brewing process end
+* modify coffee recipe
+* modify coffee recipe position in list
+* navigate list of coffee recipes
+* notify maintenance process end
+* notify insufficient cups
+* notify insufficient ingredients
+* notify one cup left on the tray
+* order certain amount cups of coffee due to insufficient ingredients
+* order cup of coffee
+* order multiple cups of coffee
+* recognize cleanliness status
+* recognize cup on tray
+* recognize cup on tray fragment
+* recognize cup fill level
+* recognize ingredients stock fill level
+* recognize ingredient tank fill level
+* recognize insufficient ingredients to fulfill a cup of coffee order
+* recognize insufficient ingredients to fulfill a multiple cup of coffee order
+* recognize tray on coffee machine
+* set amount of coffee recipe ingredient
+* show all coffee recipes
+* show cleanliness status
+* show ingredients stock fill level
+* show ingredient tank fill level
+* save coffee recipe
+* specify coffee recipe property
+* start brewing process
+* start maintenance process
