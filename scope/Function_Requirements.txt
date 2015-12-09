@@ -32,7 +32,7 @@
 * recognize cup on tray
 * recognize cup on tray fragment
 * recognize cup fill level
-* recognize ingredients stock fill level
+* recognize ingredients inventory fill level
 * recognize ingredient tank fill level
 * recognize insufficient ingredients to fulfill a cup of coffee order
 * recognize insufficient ingredients to fulfill a multiple cup of coffee order
@@ -40,7 +40,7 @@
 * set amount of coffee recipe ingredient
 * show all coffee recipes
 * show cleanliness status
-* show ingredients stock fill level
+* show ingredients inventory fill level
 * show ingredient tank fill level
 * save coffee recipe
 * specify coffee recipe property

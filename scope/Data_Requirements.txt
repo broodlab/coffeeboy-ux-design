@@ -2,12 +2,14 @@
 * brewing process
 * brewing process end
 * brewing process end notification
+* ~~brewing process end sound~~
 * brewing process progress
+* ~~brewing process progress animation~~
 * brewing process start
 * cleanliness status
 * cleanliness status type
-  ** clean
-  ** dirty
+  * clean
+  * dirty
 * cup
 * cup fill level
 * cup of coffee
@@ -17,27 +19,28 @@
 * cup on tray
 * cup on tray fragment
 * coffee recipe
-* coffee recipe property:
-  ** forecast number
-  ** list of ingredient incl. amount
-  ** name
-  ** position in list
+  * forecast number
+  * list of ingredients incl. amount
+  * name
+  * position in list
 * ingredient
-* ingredients stock
-* ingredients stock fill level
+* ingredients inventory
+* ingredients inventory fill level
 * ingredient tank
 * ingredient tank fill level
 * ingredient type:
-  ** coffee bean
-  ** milk
-  ** milk froth
-  ** sugar
-  ** water
+  * coffee bean
+  * milk
+  * milk froth
+  * sugar
+  * water
 * list of coffee recipes
 * maintenance process
 * maintenance process end
 * maintenance process end notification
+* ~~maintenance process end sound~~
 * maintenance process progress
+* ~~maintenance process progress animation~~
 * maintenance process start
 * tray
 * tray fragment

@@ -99,6 +99,9 @@ ingredient
 insufficient
   * e.g.: There are insufficient ingredients to fulfill a cup of coffee order.
 
+inventory
+  * ingredients inventory
+
 item
   * order item
 
@@ -164,7 +167,7 @@ recognize
   * e.g.: CoffeeBoy recognizes the cup's fill level.
 
 refill
-  * refill the ingredients stock
+  * refill the ingredients inventory
 
 remote
   * remote client
@@ -193,9 +196,6 @@ start
 
 status
   * cleanliness status
-
-stock
-  * ingredients stock
 
 sugar
   * ingredient type sugar

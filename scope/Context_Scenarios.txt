@@ -22,7 +22,7 @@ Amy and Bob are sitting in the dining room with their guests. They had dinner an
 Based on scenario #05: Some guests at the table have pretty specific desires regarding the coffee recipe, and CoffeeBoy does not have a suitable coffee recipe for them. So while choosing the coffee recipes, Amy on-the-fly modifies the amount of some ingredients according to the guest's wish.
 
 
-#07: Amy orders multiple cups of coffee, but the stock has insufficient ingredients
+#07: Amy orders multiple cups of coffee, but the inventory has insufficient ingredients
 Based on scenario #05: During the creation of the second order item the CoffeeBoy remote client notifies Amy that there are insufficient ingredients to fulfill the order. Amy can decide to start the brewing process with the existing order items, or to cancel the whole order.
 
 
@@ -34,12 +34,12 @@ Based on scenario #05: During the creation of the second order item the CoffeeBo
 Based on scenario #05: Amy initiates the multiple cups of coffee order, but then the CoffeeBoy remote device gets passed along the guests. Thereby each guest chooses a coffee recipe, memorizes the assigned color and passes along the CoffeeBoy remote device to the next guest. Finally Amy starts the brewing process.
 
 
-#10: Amy refills the ingredients stock
-It is Saturday 11 AM. Amy arrives back from the shopping mall. Among others she bought ingredients in order to refill CoffeeBoy's ingredients stock. She opens and refills one ingredient tank after another. The ingredient tanks can recognize the current fill level. While refilling Amy can immediately see the new fill level on the display.
+#10: Amy refills the ingredients inventory
+It is Saturday 11 AM. Amy arrives back from the shopping mall. Among others she bought ingredients in order to refill CoffeeBoy's ingredients inventory. She opens and refills one ingredient tank after another. The ingredient tanks can recognize the current fill level. While refilling Amy can immediately see the new fill level on the display.
 
 
 #11: Amy starts the maintenance process
-Based on scenario #10: After Amy refilled the ingredients stock she checks the cleanliness status. As the status is "dirty" she starts the maintenance process. During the maintenance process CoffeeBoy's tubes get cleaned. Thereby dirty water gets spilled out to a cup. Amy also gets pleased to empty the drawer with the coffee grounds. The display shows the status of the process. After a while Amy gets notified that the maintenance process ended and that she should empty the cup with the dirty water.
+Based on scenario #10: After Amy refilled the ingredients inventory she checks the cleanliness status. As the status is "dirty" she starts the maintenance process. During the maintenance process CoffeeBoy's tubes get cleaned. Thereby dirty water gets spilled out to a cup. Amy also gets pleased to empty the drawer with the coffee grounds. The display shows the status of the process. After a while Amy gets notified that the maintenance process ended and that she should empty the cup with the dirty water.
 
 
 #12: Amy creates a new coffee recipe

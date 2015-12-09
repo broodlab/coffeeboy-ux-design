@@ -1,7 +1,3 @@
-* brewing and maintenance process progress animation
-* brewing process end sound
-* maintenance process progress animation
-* maintenance process end sound
-* off-line capability 
 * modest visual appearance (use colors and animations sparingly)
+* ~~off-line capability~~ 
 * public API
