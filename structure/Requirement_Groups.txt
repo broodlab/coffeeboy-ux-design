@@ -1,0 +1,87 @@
+# Cup(s) of Coffee Ordering and Brewing Process
+## Data
+  * coffee recipes
+  * coffee recipe forecast
+  * cup
+  * tray
+  * cup(s) of coffee order
+  * brewing process
+## Functions
+* navigate list of coffee recipes
+* choose coffee recipe
+* cancel coffee recipe choice
+
+* create coffee recipe on-the-fly
+* cancel coffee recipe on-the-fly creation
+
+* modify coffee recipe on-the-fly
+* cancel coffee recipe on-the-fly modification
+
+* order cup of coffee
+* order multiple cups of coffee
+* cancel cup of coffee order
+* cancel multiple cups of coffee order
+* order certain amount cups of coffee due to insufficient ingredients
+* create cup of coffee order item
+* assign a color to a cup of coffee order item
+
+* start brewing process
+* notify brewing process start
+* show brewing process progress
+* notify brewing process end
+* cancel brewing process
+
+* notify tray not available on coffee machine
+* notify only one empty cup left on the tray
+* notify insufficient empty cups on the tray to fulfill a single cup of coffee order
+* notify insufficient empty cups on the tray to fulfill a multiple cups of coffee order
+* notify insufficient ingredients to fulfill a single cup of coffee order
+* notify insufficient ingredients to fulfill a multiple cups of coffee order
+
+
+# Coffee Recipes
+## Data
+  * coffee recipes
+  * ingredients
+## Functions
+* navigate list of coffee recipes
+* choose coffee recipe
+* cancel coffee recipe choice
+
+* create coffee recipe
+* specify coffee recipe properties
+* save coffee recipe
+* cancel coffee recipe creation
+
+* create coffee recipe from copy
+* cancel coffee recipe creation from copy
+
+* delete coffee recipe
+* cancel coffee recipe deletion
+
+* modify coffee recipe
+* cancel coffee recipe modification
+
+* modify coffee recipe position in list
+
+
+# Inventory
+## Data
+  * ingredients
+  * inventory
+## Functions
+
+
+# Maintenance
+## Data
+  * maintenance status
+  * maintenance process
+## Functions
+* start maintenance process
+* notify maintenance process start
+* show maintenance process progress
+* notify maintenance process end
+* cancel maintenance process
+
+* notify maintenance status dirty
+* notify insufficient empty cups on the tray to conduct maintenance process

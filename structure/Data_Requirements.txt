@@ -1,0 +1,71 @@
+# ingredient(s)
+  * type:
+    * coffee bean
+    * milk
+    * milk froth
+    * sugar
+    * water
+
+# inventory
+  * tank(s)
+    * ingredient
+    * capacity
+    * fill level
+
+# coffee recipe(s)
+  * name
+  * ingredient(s)
+    * amount
+  * position in list
+
+# coffee recipe forecast
+  * coffee recipe
+  * amount
+
+# cup
+  * capacity
+  * fill level
+
+# tray
+    * fragment(s)
+      * cup
+
+# cup(s) of coffee order
+  * item
+    * amount of cups
+    * color
+
+# brewing process
+  * start
+    * notification
+  * progress
+  * end
+    * notification
+
+# maintenance status
+  * type
+    * clean
+    * dirty
+
+# maintenance process
+  * start
+    * notification
+  * progress
+  * end
+    * notification
+
+# coffee machine sensor
+  * tray available
+
+# tray fragment sensor(s)
+  * cup available
+
+# cup sensor(s)
+  * fill level
+
+# inventory tank sensor(s)
+  * fill level
+
+# maintenance status sensor
+  * clean
+  * dirty
