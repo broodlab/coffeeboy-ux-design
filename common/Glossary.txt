@@ -4,6 +4,9 @@ amount
 assign
   * e.g.: CoffeeBoy assigns a color to a cup of coffee order item.
 
+available
+  * e.g.: Tray available.
+
 bean
   * ingredient type coffee bean
 
@@ -14,6 +17,8 @@ brew
 cancel
   * e.g.: Bob cancels the cup of coffee order.
 
+capacity
+
 choice
   * coffee recipe choice
 
@@ -22,9 +27,6 @@ choose
 
 clean
   * e.g.: CoffeeBoy's tubes get cleaned.
-
-cleanliness
-  * cleanliness status
 
 client
   * remote client
@@ -179,6 +181,8 @@ save
 segment
   * tray segment
 
+sensor
+
 set
   * e.g.: Amy sets the amount of sugar to zero.
 
@@ -195,7 +199,7 @@ start
   * brewing process start
 
 status
-  * cleanliness status
+  * maintenance status
 
 sugar
   * ingredient type sugar
@@ -214,7 +218,7 @@ tube
 
 type
   * ingredient type
-  * cleanliness status type
+  * maintenance status type
 
 water
   * ingredient type water
