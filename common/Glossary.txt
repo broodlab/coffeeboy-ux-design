@@ -77,6 +77,9 @@ end
 existing
   * e.g.: Bob sees the list of existing coffee recipes.
 
+favorite
+  * favorite order
+
 fill
   * cup fill level
 
@@ -162,6 +165,9 @@ progress
 property
   * coffee recipe property
 
+recent
+  * recent cups of coffee orders
+
 recipe
   * coffee recipe
 
@@ -212,6 +218,9 @@ tank
 
 tray
   * tray with cups
+
+timestamp
+  * order timestamp
 
 tube
   * e.g.: CoffeeBoy's tubes get cleaned.

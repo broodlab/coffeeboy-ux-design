@@ -6,6 +6,7 @@
   * tray
   * cup(s) of coffee order
   * brewing process
+  * maximal recent cup(s) of coffee order(s)
 ## Functions
 * navigate list of coffee recipes
 * choose coffee recipe
@@ -24,6 +25,10 @@
 * order certain amount cups of coffee due to insufficient ingredients
 * create cup of coffee order item
 * assign a color to a cup of coffee order item
+
+* order cup of coffee based on a recently made or favorite order
+* order multiple cups of coffee based on a recently made or favorite order
+* specify favorite property of order
 
 * start brewing process
 * notify brewing process start

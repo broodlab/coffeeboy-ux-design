@@ -30,10 +30,14 @@
     * fragment(s)
       * cup
 
-# cup(s) of coffee order
-  * item
+# cup(s) of coffee order(s)
+  * item(s)
     * amount of cups
     * color
+  * timestamp
+  * favorite
+
+# maximal recent cup(s) of coffee order(s)
 
 # brewing process
   * start
