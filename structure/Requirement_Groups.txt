@@ -7,6 +7,10 @@
   * cup(s) of coffee order
   * brewing process
   * maximal recent cup(s) of coffee order(s)
+  * feedback 'brewing process ended'
+  * feedback 'brewing process canceled'
+  * confirmation 'cancel or continue brewing process'
+
 ## Functions
 * navigate list of coffee recipes
 * choose coffee recipe
@@ -31,10 +35,12 @@
 * specify favorite property of order
 
 * start brewing process
-* notify brewing process start
 * show brewing process progress
 * notify brewing process end
 * cancel brewing process
+* show confirmation 'cancel or continue brewing process'
+* pause brewing process
+* continue brewing process
 
 * notify tray not available on coffee machine
 * notify only one empty cup left on the tray
@@ -81,12 +87,17 @@
 ## Data
   * maintenance status
   * maintenance process
+  * feedback 'maintenance process ended'
+  * feedback 'maintenance process canceled'
+  * confirmation 'cancel or continue maintenance process'
 ## Functions
 * start maintenance process
-* notify maintenance process start
 * show maintenance process progress
 * notify maintenance process end
 * cancel maintenance process
+* show confirmation 'cancel or continue maintenance process'
+* pause maintenance process
+* continue maintenance process
 
 * notify maintenance status dirty
 * notify insufficient empty cups on the tray to conduct maintenance process

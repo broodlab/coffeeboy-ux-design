@@ -38,6 +38,12 @@ CoffeeBoy
 color
   * e.g.: CoffeeBoy assigns a color to a cup of coffee order item.
 
+confirmation
+  * e.g.: Show confirmation 'cancel or continue brewing process'.
+
+continue
+  * e.g.: Continue brewing process.
+
 copy
   * coffee recipe copy
 
@@ -79,6 +85,9 @@ existing
 
 favorite
   * favorite order
+
+feedback
+  * e.g.: Show feedback 'brewing process ended'.
 
 fill
   * cup fill level
@@ -149,6 +158,9 @@ on-the-fly
 
 order
   * cup of coffee order
+
+pause
+  * e.g.: Pause brewing process.
 
 pick
   * e.g.: The guest picks up her cup from the tray.

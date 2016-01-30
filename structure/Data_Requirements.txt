@@ -73,3 +73,13 @@
 # maintenance status sensor
   * clean
   * dirty
+
+# feedback
+  * brewing process ended
+  * brewing process canceled
+  * maintenance process ended
+  * maintenance process canceled
+
+# confirmation
+  * cancel or continue brewing process
+  * cancel or continue maintenance process

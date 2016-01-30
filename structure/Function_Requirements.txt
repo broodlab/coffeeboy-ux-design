@@ -47,17 +47,21 @@
 
 
 * start brewing process
-* notify brewing process start
 * show brewing process progress
 * notify brewing process end
 * cancel brewing process
+* show confirmation 'cancel or continue brewing process'
+* pause brewing process
+* continue brewing process
 
 
 * start maintenance process
-* notify maintenance process start
 * show maintenance process progress
 * notify maintenance process end
 * cancel maintenance process
+* show confirmation 'cancel or continue maintenance process'
+* pause maintenance process
+* continue maintenance process
 
 
 * notify tray not available on coffee machine
