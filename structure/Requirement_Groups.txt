@@ -17,9 +17,11 @@
 * cancel coffee recipe choice
 
 * create coffee recipe on-the-fly
+* update specifiable ingredients amount
 * cancel coffee recipe on-the-fly creation
 
 * modify coffee recipe on-the-fly
+* update specifiable ingredients amount
 * cancel coffee recipe on-the-fly modification
 
 * order cup of coffee

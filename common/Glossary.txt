@@ -237,9 +237,12 @@ timestamp
 tube
   * e.g.: CoffeeBoy's tubes get cleaned.
 
-type
+type 
   * ingredient type
   * maintenance status type
+
+update
+  * e.g.: Update the UI.
 
 water
   * ingredient type water
