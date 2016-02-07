@@ -9,6 +9,8 @@
   * maximal recent cup(s) of coffee order(s)
   * feedback 'brewing process ended'
   * feedback 'brewing process canceled'
+  * feedback 'maximal cups on tray'
+  * feedback 'none order item available'
   * confirmation 'cancel or continue brewing process'
 
 ## Functions
@@ -35,6 +37,24 @@
 * order cup of coffee based on a recently made or favorite order
 * order multiple cups of coffee based on a recently made or favorite order
 * specify favorite property of order
+
+* put cup onto tray 
+* assign tray fragment to cup
+* temporarily show color of cup's assigned tray fragment
+* disable 'put cup onto tray'
+* enable 'put cup onto tray'
+* disable 'start brewing process'
+
+
+* navigate list of order items
+* choose order item
+* cancel order item choice
+* delete order item
+* increase amount of cups
+* decrease amount of cups
+* disable 'navigate list of order items'
+* disable 'increase amount of cups'
+
 
 * start brewing process
 * show brewing process progress

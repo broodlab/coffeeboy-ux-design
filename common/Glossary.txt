@@ -159,6 +159,9 @@ on-the-fly
 order
   * cup of coffee order
 
+onto
+  * e.g.: Put cup onto tray.
+
 pause
   * e.g.: Pause brewing process.
 
@@ -176,6 +179,9 @@ progress
 
 property
   * coffee recipe property
+
+put
+  * e.g.: Put cup onto tray.
 
 recent
   * recent cups of coffee orders
@@ -230,6 +236,9 @@ tank
 
 tray
   * tray with cups
+
+temporary
+  * temporary feedback
 
 timestamp
   * order timestamp
