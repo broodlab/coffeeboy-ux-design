@@ -34,6 +34,8 @@
 * create cup of coffee order item
 * assign a color to a cup of coffee order item
 
+* choose order
+* chancel order choice
 * order cup of coffee based on a recently made or favorite order
 * order multiple cups of coffee based on a recently made or favorite order
 * tag order as favorite
@@ -46,7 +48,6 @@
 * enable 'put cup onto tray'
 * disable 'start brewing process'
 
-
 * navigate list of order items
 * choose order item
 * cancel order item choice
@@ -55,7 +56,6 @@
 * decrease amount of cups
 * disable 'navigate list of order items'
 * disable 'increase amount of cups'
-
 
 * start brewing process
 * show brewing process progress

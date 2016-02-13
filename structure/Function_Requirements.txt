@@ -43,6 +43,8 @@
 * assign a color to a cup of coffee order item
 
 
+* choose order
+* chancel order choice
 * order cup of coffee based on a recently made or favorite order
 * order multiple cups of coffee based on a recently made or favorite order
 * tag order as favorite
