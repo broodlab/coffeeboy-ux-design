@@ -34,6 +34,7 @@
 * create cup of coffee order item
 * assign a color to a cup of coffee order item
 
+* navigate list of orders
 * choose order
 * chancel order choice
 * order cup of coffee based on a recently made or favorite order
