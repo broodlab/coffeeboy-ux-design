@@ -50,6 +50,7 @@
 * order multiple cups of coffee based on a recently made or favorite order
 * tag order as favorite
 * untag a favorite order
+* modify order name
 
 
 * put cup onto tray 
