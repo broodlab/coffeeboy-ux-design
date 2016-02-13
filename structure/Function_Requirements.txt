@@ -43,7 +43,8 @@
 
 * order cup of coffee based on a recently made or favorite order
 * order multiple cups of coffee based on a recently made or favorite order
-* specify favorite property of order
+* tag order as favorite
+* untag a favorite order
 
 
 * start brewing process

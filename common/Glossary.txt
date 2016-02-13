@@ -104,11 +104,17 @@ froth
 grounds
   * e.g.: Amy empties the drawer with the coffee grounds.
 
+history
+  * e.g.: History of the last five multiple-cups-of-coffee orders.
+
 increase
   * increase ingredient
 
 ingredient
   * ingredient type coffee bean
+
+initiate
+  * initiate an order
 
 insufficient
   * e.g.: There are insufficient ingredients to fulfill a cup of coffee order.
@@ -118,6 +124,10 @@ inventory
 
 item
   * order item
+
+last
+  * last cups of coffee orders
+  * Synonym: recent
 
 level
   * cup fill level
@@ -130,6 +140,9 @@ local
 
 maintenance
   * maintenance process
+
+make
+  * make an order
 
 milk
   * ingredient type milk
@@ -179,6 +192,7 @@ property
 
 recent
   * recent cups of coffee orders
+  * Synonym: last
 
 recipe
   * coffee recipe
@@ -230,6 +244,9 @@ tank
 
 tray
   * tray with cups
+
+template
+  * e.g.: Use an order as template.
 
 timestamp
   * order timestamp

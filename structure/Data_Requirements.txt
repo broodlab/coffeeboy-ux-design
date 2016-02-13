@@ -34,8 +34,10 @@
   * item(s)
     * amount of cups
     * color
-  * timestamp
+  * start timestamp
+  * end timestamp
   * favorite
+  * name
 
 # maximal recent cup(s) of coffee order(s)
 
