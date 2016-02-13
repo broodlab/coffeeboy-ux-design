@@ -172,6 +172,9 @@ on-the-fly
 order
   * cup of coffee order
 
+onto
+  * e.g.: Put cup onto tray.
+
 pause
   * e.g.: Pause brewing process.
 
@@ -189,6 +192,9 @@ progress
 
 property
   * coffee recipe property
+
+put
+  * e.g.: Put cup onto tray.
 
 recent
   * recent cups of coffee orders
@@ -248,15 +254,21 @@ tray
 template
   * e.g.: Use an order as template.
 
+temporary
+  * temporary feedback
+
 timestamp
   * order timestamp
 
 tube
   * e.g.: CoffeeBoy's tubes get cleaned.
 
-type
+type 
   * ingredient type
   * maintenance status type
+
+update
+  * e.g.: Update the UI.
 
 water
   * ingredient type water

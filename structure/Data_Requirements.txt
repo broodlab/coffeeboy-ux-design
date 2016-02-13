@@ -27,13 +27,14 @@
   * fill level
 
 # tray
+    * capacity
     * fragment(s)
+      * color
       * cup
 
 # cup(s) of coffee order(s)
   * item(s)
-    * amount of cups
-    * color
+    * cups
   * start timestamp
   * end timestamp
   * favorite
@@ -81,6 +82,8 @@
   * brewing process canceled
   * maintenance process ended
   * maintenance process canceled
+  * maximal cups on tray
+  * none order item available
 
 # confirmation
   * cancel or continue brewing process
