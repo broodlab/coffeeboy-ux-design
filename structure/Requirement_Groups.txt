@@ -79,6 +79,9 @@
 ## Data
   * coffee recipes
   * ingredients
+  * coffee recipe backups
+  * confirmation 'discard or restore backup'
+  * feedback 'coffee recipe name invalid'
 ## Functions
 * navigate list of coffee recipes
 * choose coffee recipe
@@ -88,6 +91,11 @@
 * specify coffee recipe properties
 * save coffee recipe
 * cancel coffee recipe creation
+* disable 'save coffee recipe'
+* enable 'save coffee recipe'
+* discard backup
+* restore backup
+* validate coffee recipe name
 
 * create coffee recipe from copy
 * cancel coffee recipe creation from copy

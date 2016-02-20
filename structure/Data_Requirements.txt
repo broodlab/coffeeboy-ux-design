@@ -22,6 +22,12 @@
   * coffee recipe
   * amount
 
+# coffee recipe backups
+  * type
+    * creation
+    * copy
+    * modification
+
 # cup
   * capacity
   * fill level
@@ -84,7 +90,9 @@
   * maintenance process canceled
   * maximal cups on tray
   * none order item available
+  * coffee recipe name invalid
 
 # confirmation
   * cancel or continue brewing process
   * cancel or continue maintenance process
+  * discard or restore backup

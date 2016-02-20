@@ -7,6 +7,9 @@ assign
 available
   * e.g.: Tray available.
 
+backup
+  * e.g.: Backup a coffee recipe.
+
 bean
   * ingredient type coffee bean
 
@@ -68,6 +71,9 @@ deletion
 device
   * remote device
 
+discard
+  * e.g.: Discard a coffee recipe backup.
+
 display
   * CoffeeBoy display
 
@@ -118,6 +124,9 @@ initiate
 
 insufficient
   * e.g.: There are insufficient ingredients to fulfill a cup of coffee order.
+
+invalid
+  * e.g.: The coffee recipe name is invalid.
 
 inventory
   * ingredients inventory
@@ -213,6 +222,9 @@ remote
   * remote client
   * remote device
 
+restore
+  * e.g.: Restore a coffee recipe backup.
+
 save
   * save a coffee recipe
 
@@ -269,6 +281,15 @@ type
 
 update
   * e.g.: Update the UI.
+
+valid
+  * e.g.: The coffee recipe name is valid.
+
+validate
+  * e.g.: Validate the coffee recipe's name.
+
+validation
+  * e.g.: The validation of the coffee recipe name failed.
 
 water
   * ingredient type water
