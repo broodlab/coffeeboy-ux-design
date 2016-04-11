@@ -1,0 +1,10 @@
+[Dolphin]
+PreviewsShown=true
+SortOrder=1
+Timestamp=2016,4,11,21,39,46
+Version=3
+ViewMode=1
+VisibleRoles=Details_text,Details_type,Details_permissions,Details_owner,Details_group,Details_date,CustomizedDetails
+
+[Settings]
+HiddenFilesShown=true
